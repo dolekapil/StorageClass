@@ -16,7 +16,6 @@
  * as possible to sort the elements.
  *
  * @author      Kapil Dole
- * @author      Pratik Kulkarni
  */
 public class FastCompetition<E> implements Competition<E> {
 
